@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Yakuza0Patch", "Yakuza0Patch\Yakuza0Patch.vcxproj", "{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}.Debug|x64.ActiveCfg = Debug|x64
+		{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}.Debug|x64.Build.0 = Debug|x64
+		{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}.Debug|x86.ActiveCfg = Debug|Win32
+		{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}.Debug|x86.Build.0 = Debug|Win32
+		{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}.Release|x64.ActiveCfg = Release|x64
+		{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}.Release|x64.Build.0 = Release|x64
+		{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}.Release|x86.ActiveCfg = Release|Win32
+		{07A05C9A-2F9C-4F3C-ACAE-42C38DB6FADA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCB6FBA-6CF7-4090-B5DA-16398FA371EB}
+	EndGlobalSection
+EndGlobal
