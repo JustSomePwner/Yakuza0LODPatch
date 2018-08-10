@@ -1,5 +1,6 @@
 # Yakuza 0 ( Steam ) LOD Patch
 `community does what Sega QA don't`
+
 an external program that modifies the game Yakuza 0 on runtime to fix certain issues with the PC port
 
 # Features
